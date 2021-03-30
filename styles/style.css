@@ -39,7 +39,7 @@
   padding: 0;
   margin: 0;
   margin-left: 64px;
-  width: 730px;
+  max-width: 730px;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
@@ -91,6 +91,8 @@
 }
 
 .description {
+    display: flex;
+    justify-content: space-around;
     margin: 100px auto;
 }
 
@@ -343,7 +345,7 @@
   font-weight: bold;
 }
 
-.footer__column_links {
+.footer__column-links {
   font-weight: normal;
   margin: 20px 0 16px;
   padding: 0;
