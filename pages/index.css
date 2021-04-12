@@ -46,7 +46,7 @@
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/__theme/table__theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
@@ -83,8 +83,10 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/clearlink/clearlink.css);
 
 
 

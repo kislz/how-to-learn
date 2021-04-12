@@ -8,11 +8,3 @@ margin: 0 auto;
 /* выше для экранов больше 1600px отцентрировали весь контент */
 font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
-a {
-  transition: opacity 1s linear;
-}
-
-a:hover {
-  opacity: 0.5;
-}

@@ -1,5 +1,6 @@
 .description {
   display: flex;
   justify-content: space-around;
-  margin: 100px auto;
+  margin: auto;
+  padding: 100px 0;
 }

@@ -1,0 +1,7 @@
+.clearlink {
+  transition: opacity 1s linear;
+}
+
+.clearlink:hover {
+  opacity: 0.5;
+}
